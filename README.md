@@ -71,8 +71,8 @@ You can click the Preview link to take a look at your changes.
 ### 🏆 &nbsp;Top Language
 <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppdxzz&theme=radical&layout=compact">
 
-### Profile
-![](./3d-contrib/profile-night.svg)
+### 📈 &nbsp;Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=ppdxzz/ppdxzz&type=Date)](https://star-history.com/#ppdxzz/ppdxzz&Date)
 
 ### 💬 &nbsp;Contact Me
 <a href="mailto:peichenwan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-peichenwan@gmail.com-black?style=flat-square&logo=gmail"></a>
