@@ -29,7 +29,7 @@ You can click the Preview link to take a look at your changes.
 [![Less](https://img.shields.io/badge/-Less-1D365D?style=flat-square&logo=less&logoColor=ffffff)](http://lesscss.org/)
 
 [![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=Oracle&logoColor=ffffff)](https://www.oracle.com/)
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&amp;logoColor=white)](https://www.mysql.com/)
 [![Redis](https://img.shields.io/badge/-Redis-D82C20?style=flat-square&logo=Redis&logoColor=ffffff)](https://redis.io/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=ffffff)](https://www.mongodb.com/)
 
@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=ffffff)](https://www.docker.com/)
 
 ### ⭐ &nbsp;Github Star
-<img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ppdxzz&count_private=true&show_icons=true"/>
+<img width="500px" alt="GitHub Stars" src="https://github-readme-stats.vercel.app/api?username=ppdxzz&count_private=true&show_icons=true&theme=radical&include_all_commits=true" />
 
 ### 🐱 &nbsp;Open Source
 <table>
@@ -69,7 +69,7 @@ You can click the Preview link to take a look at your changes.
 </table>
 
 ### 🏆 &nbsp;Top Language
-<img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppdxzz&hide=html,&hide_border=true&title_color=5391FE&text_color=555">
+<img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppdxzz&theme=radical&layout=compact">
 
 ### 💬 &nbsp;Contact Me
 <a href="mailto:peichenwan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-peichenwan@gmail.com-black?style=flat-square&logo=gmail"></a>
