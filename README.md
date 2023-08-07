@@ -72,7 +72,7 @@ You can click the Preview link to take a look at your changes.
 <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppdxzz&theme=radical&layout=compact">
 
 ### 📈 &nbsp;Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=ppdxzz/ppdxzz&type=Date)](https://star-history.com/#ppdxzz/ppdxzz&Date)
+<img alt = "Star History" src="https://api.star-history.com/svg?repos=ppdxzz/ppdxzz&type=Date">
 
 ### 💬 &nbsp;Contact Me
 <a href="mailto:peichenwan@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-peichenwan@gmail.com-black?style=flat-square&logo=gmail"></a>
